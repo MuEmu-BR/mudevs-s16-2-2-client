@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageManager>
+	<Lang ID="0" FileName="English.xml" FontName="English" CharSet="129" Enable="1"/>
+	<Lang ID="1" FileName="Spanish.xml" FontName="English" CharSet="129" Enable="0"/>
+	<Lang ID="2" FileName="Portuguese.xml" FontName="English" CharSet="1" Enable="0"/>
+	<Lang ID="3" FileName="Korean.xml" FontName="Korean" CharSet="129" Enable="0"/>
+	<Lang ID="4" FileName="Chinese.xml" FontName="China" CharSet="1" Enable="1"/>
+	<Lang ID="5" FileName="Vietnamese.xml" FontName="English" CharSet="129" Enable="0"/>
+	<Lang ID="6" FileName="Russian.xml" FontName="English" CharSet="129" Enable="0"/>.
+	<Lang ID="7" FileName="Japan.xml" FontName="Japan" CharSet="129" Enable="0"/>
+</LanguageManager>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Language>
+	<Local>
+		<File ID="0" Text="Data\\Local\\Eng\\excellentcommonoption.bmd" />
+		<File ID="1" Text="Data\\Local\\Eng\\excellentwingoption.bmd" />
+		<File ID="2" Text="Data\\Local\\Eng\\helpdata.bmd" />
+		<File ID="3" Text="Data\\Local\\Eng\\infotooltip.bmd" />
+		<File ID="4" Text="Data\\Local\\Eng\\infotooltiptext.bmd" />
+		<File ID="5" Text="Data\\Local\\Eng\\item.bmd" />
+		<File ID="6" Text="Data\\Local\\Eng\\itemsetoption.bmd" />
+		<File ID="7" Text="Data\\Local\\Eng\\itemsetoptiontext.bmd" />
+		<File ID="8" Text="Data\\Local\\Eng\\itemtooltip.bmd" />
+		<File ID="9" Text="Data\\Local\\Eng\\itemtooltiptext.bmd" />
+		<File ID="10" Text="Data\\Local\\Eng\\JewelOfHarmonyOption.bmd" />
+		<File ID="11" Text="Data\\Local\\Eng\\JewelOfHarmonySmelt.bmd" />
+		<File ID="12" Text="Data\\Local\\Eng\\masterskilltooltip.bmd" />
+		<File ID="13" Text="Data\\Local\\Eng\\muunoption.bmd" />
+		<File ID="14" Text="Data\\Local\\Eng\\quest.bmd" />
+		<File ID="15" Text="Data\\Local\\Eng\\QuestWords.bmd" />
+		<File ID="16" Text="Data\\Local\\Eng\\ruudshopviewinfo.bmd" />
+		<File ID="17" Text="Data\\Local\\Eng\\skilltooltiptext.bmd" />
+		<File ID="18" Text="Data\\Local\\Eng\\socketitem.bmd" />
+		<File ID="19" Text="Data\\Local\\Eng\\statoptiontext.bmd" />
+		<File ID="20" Text="Data\\Local\\Eng\\serverlist.bmd" />
+	</Local>
+	<Lang Split="Eng"/>
+	<Message>
+		<MSG ID="0" Text="Level: %d | Resets: %d" />
+		<MSG ID="1" Text="Reconnecting..." />
+		<MSG ID="2" Text="Logging in..." />
+		<MSG ID="3" Text="Waiting character list..." />
+		<MSG ID="4" Text="Waiting character info..." />
+	</Message>
+</Language>
